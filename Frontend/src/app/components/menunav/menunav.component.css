@@ -1,6 +1,6 @@
 app-redes{
     float: right;
-    margin-top: 25px;
+    margin-top: 10px;
 }
 .menu{
     list-style: none;
@@ -11,3 +11,7 @@ app-redes{
     margin:auto;
 }
 
+#APlogo{
+    width: 130px;
+    padding-left: 0;
+}
