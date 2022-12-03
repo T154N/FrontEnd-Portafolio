@@ -23,6 +23,10 @@ app-redes{
 }
 
 #menu{
+    border-top: 3px;
+    border-top-style: solid;
+    border-top-color:#C2F970;
+
     border-bottom: 3px;
     border-bottom-style: solid;
     border-bottom-color:#DC493A;
