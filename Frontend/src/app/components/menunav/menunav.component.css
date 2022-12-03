@@ -1,0 +1,13 @@
+app-redes{
+    float: right;
+    margin-top: 25px;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: #010001ff;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+}
+
