@@ -1,5 +1,12 @@
-div{
-    background-color: #010001ff;
-    border-color: DC493A;
+
+
+.menu{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
 }
 
+.banner{
+    position:relative;
+}
