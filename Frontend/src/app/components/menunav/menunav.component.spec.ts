@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { LogosAPComponent } from './logos-ap.component';
+import { MenunavComponent } from './menunav.component';
 
-describe('LogosAPComponent', () => {
-  let component: LogosAPComponent;
-  let fixture: ComponentFixture<LogosAPComponent>;
+describe('MenunavComponent', () => {
+  let component: MenunavComponent;
+  let fixture: ComponentFixture<MenunavComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ LogosAPComponent ]
+      declarations: [ MenunavComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(LogosAPComponent);
+    fixture = TestBed.createComponent(MenunavComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
