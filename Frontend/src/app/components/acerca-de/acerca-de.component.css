@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color: #BDC5C7;
+    background-color: #010001;
     text-align: center;
 }
 
@@ -34,4 +34,8 @@ div{
         top:720px;
         /*box-shadow: 3px 3px 3px grey;*/
     }
+}
+
+#titulo1{
+    font-family: 'Syne', sans-serif;
 }
