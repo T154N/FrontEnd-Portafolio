@@ -1,9 +1,10 @@
 .row{
     padding:20px;
+    margin: 0;
 }
 
 div{
-    background-color: #BDC5C7;
+    background-color: #0B132B;
     text-align: center;
 }
 
@@ -11,7 +12,8 @@ div{
 #nombre{
     font-weight: bold;
     margin-top: 10%;
-    margin-left: 5px
+    margin-left: 5px;
+    color: #9bdf35;
 }
 
 @media (min-width:576px){
@@ -19,6 +21,28 @@ div{
         position: absolute;
         width: 15%;
         border-radius:100%;
-        /*box-shadow: 3px 3px 3px grey;*/
+        left: 3%;
+        top:570px;
+        
     }
+}
+
+@media (max-width:575px){
+    #fotoperfil{
+        position: absolute;
+        width: 30%;
+        border-radius:100%;
+        left: 35%;
+        top:580px;
+        
+    }
+}
+
+#titulo{
+    font-family: 'Syne', sans-serif;
+    color: #5BC0BE;
+}
+
+#texto{
+    color: #fff;
 }

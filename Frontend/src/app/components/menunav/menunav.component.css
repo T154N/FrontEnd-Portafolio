@@ -1,17 +1,26 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+
 app-redes{
     float: right;
     margin-top: 10px;
 }
-.menu{
-    list-style: none;
-    padding: 0;
-    background-color: #010001ff;
-    width: 90%;
-    max-width: 1000px;
-    margin:auto;
+
+#aplogo{
+    width: 140px;
+    padding-left: 0;
+    padding-top: 0;
+    margin-top: -10px;
 }
 
-#APlogo{
-    width: 130px;
-    padding-left: 0;
+#menu{
+    border-bottom: 3px;
+    border-bottom-style: solid;
+    border-bottom-color:#5BC0BE;
+
+    background-color: #0B132B;
+    height:65px;
 }
