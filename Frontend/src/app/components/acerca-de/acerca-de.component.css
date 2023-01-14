@@ -13,7 +13,7 @@ div{
     font-weight: bold;
     margin-top: 10%;
     margin-left: 5px;
-    color: #C2F970;
+    color: #9bdf35;
 }
 
 @media (min-width:576px){
@@ -22,19 +22,19 @@ div{
         width: 15%;
         border-radius:100%;
         left: 3%;
-        top:600px;
-        /*box-shadow: 3px 3px 3px grey;*/
+        top:570px;
+        
     }
 }
 
 @media (max-width:575px){
     #fotoperfil{
-        position: relative;
+        position: absolute;
         width: 30%;
         border-radius:100%;
-        left: 3%;
-        top:1px;
-        /*box-shadow: 3px 3px 3px grey;*/
+        left: 35%;
+        top:580px;
+        
     }
 }
 
